@@ -1,0 +1,200 @@
+id;idStructure;nom;nombreDesire
+1;1;DIRECTEUR;1
+2;2;Chef de Cabinet ;1
+3;3;Chef Secretariat Particulier;1
+4;3;Secretaire;1
+5;3;Secretaire;1
+6;3;Maitre Hotel;1
+7;3;Conducteur;1
+8;4;Adjoint ;1
+9;4;Analyste Presse;0
+10;4;Cameraman;0
+11;4;Photographe;0
+12;4;Infographe;0
+13;5;Inspecteur technique X;1
+14;5;Inspecteur technique Y;1
+15;5;Secretaire Inspecteur Technique;1
+16;6;Inpecteur PSA;0
+17;6;Inpecteur PSA XY;0
+18;7;Assistante Sociale;0
+19;7;Assistant Agent;1
+20;8;Officier Adjoint;1
+21;8;Chef Secretariat Particulier;1
+22;8;Secretaire;1
+23;8;Vaguemestre;1
+24;8;Maitre Hotel D;1
+25;8;Conducteur;1
+26;9;CHEF DIVISION OPERATIONS;1
+27;9;Chef Secretariat;1
+28;9;Adjoint Secretaire;1
+29;9;Secretaire/Conducteur;1
+30;10;Chef de Bureau;1
+31;11;Chef de Section;1
+32;11;Adjoint;1
+33;12;Chef de Section;1
+34;12;Adjoint;1
+35;13;Chef de Section;1
+36;13;Adjoint;1
+37;14;Chef de Bureau;1
+38;15;Chef de Section;1
+39;15;Adjoint;1
+40;16;Chef de Section;1
+41;16;Adjoint;1
+42;17;Chef de Section;1
+43;17;Adjoint;1
+44;18;Chef CCO;1
+45;18;Adjoint;2
+46;18;Maitre chargee;1
+47;18;Adjoint SI et de Communication;1
+48;18;Operateurr de Liaison;1
+49;19;Operation de Veille;1
+50;20;Operation Analyste;1
+51;21;Chef PC communications;1
+52;21;Adjoint ;1
+53;21;Opperateur de Liaison;1
+54;22;Chef de Section;1
+55;22;Adjoint;1
+56;22;Operateur;1
+57;23;Chef de Section;1
+58;23;Adjoint;1
+59;23;Operateur;1
+60;24;Chef de Section;1
+61;24;Adjoint;1
+62;24;Operateur;1
+63;25;CHEF DIVISION DES RESSOURCES HUMAINES ;1
+64;25;Chef Secretariat;1
+65;25;Adjoint Secretaire;1
+66;25;Secretaire/Conducteur;1
+67;26;Chef de Bureau;1
+68;27;Chef de Section;1
+69;27;Adjoint;1
+70;28;Chef de Section;1
+71;28;Adjoint;1
+72;29;Chef de Bureau;1
+73;29;Adjoint ;1
+74;30;Chef de Section;1
+75;30;Adjoint;1
+76;31;Chef de Section;1
+77;31;Adjoint;1
+78;32;Chef de Section;1
+79;32;Adjoint;1
+80;33;Chef de Section;1
+81;33;Adjoint;1
+82;34;Chef de Section;1
+83;34;Adjoint;1
+84;35;Chef de Bureau;1
+85;36;Chef de Section;1
+86;37;Chef de Section;1
+87;38;Chef de Section;1
+88;39;CHEF DIVISION LOGISTIQUE ;1
+89;39;Chef Secretariat;1
+90;39;Adjoint Secretaire;1
+91;39;Secretaire/Conducteur;1
+92;40;Chef de Bureau;1
+93;41;Chef de Section;1
+94;41;Adjoint;1
+95;42;Chef  de Section;1
+96;42;Adjoint;1
+97;43;Chef de Bureau;1
+98;44;Chef de Section;1
+99;44;Adjoint;1
+100;45;Chef de Section;1
+101;45;Adjoint;1
+102;46;Chef de Section;1
+103;46;Adjoint;1
+104;47;Chef Magasin Machines;1
+105;47;Adjoint;1
+106;47;Chef Magasin  Peinture;1
+107;47;Adjoint;1
+108;47;Chef Magasin Fournitures de Bureau/Divers;1
+109;47;Adjoint;1
+110;48;Chef de Bureau;1
+111;49;Chef de Section;1
+112;49;Adjoint;1
+113;50;Chef de Section;1
+114;50;Adjoint;1
+115;51;CHEF DIVISION ADMINISTRATION ;1
+116;51;Chef Secretariat;1
+117;51;Adjoint Secretaire;1
+118;51;Secretariat/Conducteur;1
+119;52;Chef de Bureau;1
+120;53;Chef de Section;1
+121;53;Adjoint;1
+122;54;Chef de Section;1
+123;54;Adjoint;1
+124;55;Chef de Bureau;1
+125;56;Chef de Section;1
+126;56;Adjoint;1
+127;57;Chef de Section;1
+128;57;Adjoint;1
+129;58;Chef de Bureau;1
+130;59;Chef de Section;1
+131;59;Adjoint;1
+132;60;Chef de Section;1
+133;60;Adjoint;1
+134;62;Commandant de la Zone maritime et de la Flotte;1
+135;63;Chef Secretarait;1
+136;63;Secretariat;1
+137;63;Maitre XX;1
+138;63;Conducteur;1
+139;64;Commandant de la base navale Centre;1
+140;64;SANS NOM;0
+141;65;Chef Secretariat;1
+142;65;Secretaire;1
+143;65;Secretaire;1
+144;65;SANS NOM;0
+145;65;SANS NOM;0
+146;65;SANS NOM;0
+147;65;Maitre Hotel;1
+148;65;Conducteur;1
+149;65;SANS NOM;0
+150;65;SANS NOM;0
+151;65;SANS NOM;0
+152;65;SANS NOM;0
+153;65;SANS NOM;0
+154;65;SANS NOM;0
+155;65;SANS NOM;0
+156;65;SANS NOM;0
+157;65;SANS NOM;0
+158;65;SANS NOM;0
+159;66;Chef Service Ingenieur;1
+160;66;Capitaine d'Armes;1
+161;66;Adjoint;1
+162;66;Fusilier;1
+163;66;Fusilier;1
+164;67;Officier Marinier TAM;1
+165;67;Garde Magasin;1
+166;67;Garde Magasin;1
+167;68;Chef de Bureau;1
+168;68;Coordonnateur;1
+169;69;Adjoint SECRETAIRE;1
+170;70;Chef SECRETAIRE;1
+171;71;Chef de Bureau ;1
+172;72;Officier Marinier Entrainement;1
+173;73;Officier Marinier Fusco;1
+174;74;Officier Marinier Renseignement;1
+175;75;Officier Sport ;0
+176;75;Moniteur;0
+177;75;Moniteur;0
+178;76;Commandant Port Militaire;1
+179;76;SECRETAIRE;1
+180;76;SANS NOM;0
+181;76;SANS NOM;0
+182;76;SANS NOM;0
+183;76;SANS NOM;0
+184;76;SANS NOM;0
+185;76;SANS NOM;0
+186;76;SANS NOM;0
+187;76;SANS NOM;0
+188;77;Chef de Service;1
+189;77;OUVRIER SUP;1
+190;77;OUVRIER x;2
+191;77;OUVRIER;2
+192;77;SANS NOM;0
+193;77;SANS NOM;0
+194;77;SANS NOM;0
+195;78;Chef de service;1
+196;78;Adjoint;1
+197;78;Plongeur;3
+198;78;Plongeur;3
+199;78;Plongeur;3
